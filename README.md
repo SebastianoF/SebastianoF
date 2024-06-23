@@ -20,4 +20,7 @@
   <a href="https://medium.com/@sebastianof">
     <img src="https://img.shields.io/badge/Medium-FFFFFF.svg?style=flat-square&logo=medium&logoColor=black" alt="Medium" style="height:20px;">
   </a>
+  <a href="https://scholar.google.com/citations?user=1tAeAI0AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-FFFFFF.svg?style=flat-square&logo=google-scholar&logoColor=black" alt="Google Scholar" style="height:20px;">
+  </a>
 </div>
