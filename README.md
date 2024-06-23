@@ -23,4 +23,7 @@
   <a href="https://scholar.google.com/citations?user=1tAeAI0AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-FFFFFF.svg?style=flat-square&logo=google-scholar&logoColor=black" alt="Google Scholar" style="height:20px;">
   </a>
+  <a href="https://www.lavazza.co.uk/en/roast-and-ground-coffee/qualita-rossa">
+    <img src="https://img.shields.io/badge/Productivity%20tips-FFFFFF.svg?style=flat-square&logo=product-hunt&logoColor=black" alt="productivity tips" style="height:20px;">
+  </a>
 </div>
