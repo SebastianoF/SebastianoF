@@ -8,7 +8,7 @@
   <a href="mailto:sebastiano.ferraris@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=black" alt="Email" style="height:20px;">
   </a>
-  <a href="https://sebastianof.github.io/GeoDsBlog/" target="_blank">
+  <a  href="#" onclick='window.open("https://sebastianof.github.io/GeoDsBlog/");return false;'>
     <img src="https://img.shields.io/badge/geospatial%20blog-FFFFFF?style=flat-square&logo=pinboard&logoColor=black" alt="Blog" style="height:20px;">
   </a>
   <a href="https://www.linkedin.com/in/ibis-redibis" target="_blank">
