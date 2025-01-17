@@ -1,5 +1,5 @@
 <h3 align="center">Sebastiano Ferraris </h3>
-<h4 align="center">Geospatial data scientist - PhD, MRes medical image analysis - MSci BSc mathematics </h4>
+<h4 align="center">Geospatial data scientist - PhD, MRes medical image analysis - MSci, BSc mathematics </h4>
 <!-- <p align="center">
   <a href="https://sebastianof.github.io/GeoDsBlog/">Add portfolio besides blg here</a>
 </p> -->
