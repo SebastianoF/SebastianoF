@@ -23,4 +23,7 @@
   <a href="https://www.lavazza.co.uk/en/roast-and-ground-coffee/qualita-rossa" target="_blank">
     <img src="https://img.shields.io/badge/Productivity%20tips-FFFFFF.svg?style=flat-square&logo=product-hunt&logoColor=black" alt="productivity tips" style="height:20px;">
   </a>
+  <a href="https://medium.com/@sebastianof" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-FFFFFF.svg?style=flat-square&logo=medium&logoColor=black" alt="medium tips" style="height:20px;">
+  </a>
 </div>
